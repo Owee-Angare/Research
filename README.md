@@ -5,7 +5,7 @@
 ## Publication 
 ### •	Bio-Inspired Biped Robotic Locomotion 
 Guide: Dr. Arati V Mulay, Associate Professor, Department of Production Engineering and Industrial Management, COEP.  
-The research aimed to study the development of Bipedal Robotic Locomotion focusing on the design, stability, compliance and limitations of these robots in real environments. 
+The research aimed to study the development of Bipedal Robotic Locomotion in the past two decades focusing on the design, stability, compliance and limitations of these robots in real environments. 
 ### International Journal of Research and Analytical Reviews (IJRAR), June, 2020 - Volume 7 Issue 2 [[paper]](IJRAR_Paper.pdf) [[journal]](http://ijrar.org/viewfull.php?&p_id=IJRAR2002381) 
 *** *** *** 
 
@@ -16,4 +16,4 @@ The research aimed to study the development of Bipedal Robotic Locomotion focusi
 ## Research Projects
 ### Ongoing 
 ### •	AERIAL VEHICLE 
-Ministry of Human Resource Development, Government of India (Innovation Cell), organized a “Fight Corona Ideathon” across India. This project idea ‘Aerial Vehicle’ was amongst the top 39 solutions selected from 4500 plus entries. The Aerial Vehicle along with attached robotic linkage is aimed at taking nasal samples of people for COVID19 test, thereby eliminating human to human interaction and safeguarding the medical and support staff.  [[Robotic Linkage Simulink]]()   
+Ministry of Human Resource Development, Government of India (Innovation Cell), organized a “Fight Corona Ideathon” across India. This project idea ‘Aerial Vehicle’ was amongst the top 39 solutions selected from 4500 plus entries. The Aerial Vehicle along with attached robotic linkage is aimed at taking nasal samples of people for COVID19 test, thereby eliminating human to human interaction and safeguarding the medical and support staff.  [[Robotic Linkage Simulink]]()    
