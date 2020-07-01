@@ -1,5 +1,5 @@
 ## Research
-### Main fields of interest: Bio-inspired Robotics and appications of Machine Learning, Deep Learning and Image Processing in Robotics 
+### Main fields of interest: Bio-inspired Robotics and applications of Machine Learning, Deep Learning and Image Processing in Robotics 
 *** *** *** 
 
 ## Publication 
