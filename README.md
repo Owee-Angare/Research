@@ -11,8 +11,9 @@ The research aimed to study the development of Bipedal Robotic Locomotion focusi
 
 ## Seminar 
 ### A Bio-inspired Biped Robot with Variable Stiffness Actuator [[report]](https://drive.google.com/file/d/1vVGksA9xzr1cZri8NhxzX7tQ618LSRl1/view?usp=sharing) [[ppt]](https://drive.google.com/file/d/1EonLIPuudvMWjo-u6RqvTuAOEmv6GBTy/view?usp=sharing) 
+*** *** *** 
 
 ## Research Projects
 ### Ongoing 
 ### •	AERIAL VEHICLE 
-Ministry of Human Resource Development, Government of India (Innovation Cell), organized a “Fight Corona Ideathon” across India. This project idea ‘Aerial Vehicle’ was amongst the top 39 solutions selected from 4500 plus entries. The Aerial Vehicle along with attached robotic linkage is aimed at taking nasal samples of people for COVID19 test, thereby eliminating human to human interaction and safeguarding the medical and support staff.  [[Robotic Linkage Simulink]]()  
+Ministry of Human Resource Development, Government of India (Innovation Cell), organized a “Fight Corona Ideathon” across India. This project idea ‘Aerial Vehicle’ was amongst the top 39 solutions selected from 4500 plus entries. The Aerial Vehicle along with attached robotic linkage is aimed at taking nasal samples of people for COVID19 test, thereby eliminating human to human interaction and safeguarding the medical and support staff.  [[Robotic Linkage Simulink]]()   
