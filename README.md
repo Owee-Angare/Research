@@ -10,5 +10,4 @@ The research aimed to study the development of Bipedal Robotic Locomotion focusi
 *** *** *** 
 
 ## Seminar 
-
-
+A Bio-inspired Biped Robot with Variable Stiffness Actuator [[Seminar Report]] (111713005_Seminar Report.docx) [[Seminar ppt]] (111713005_Seminar Ppt.pptx) 
