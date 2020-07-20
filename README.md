@@ -16,8 +16,8 @@ The research aimed to study the development of Bipedal Robotic Locomotion in the
 ## Research Projects
 ### Ongoing 
 ### •	3D PRINTED SOFT ACTUATOR FOR LEGGED LOCOMOTION
-Guide: Dr. Arati V Mulay, Associate Professor, Department of Production Engineering and Industrial Management, COEP.<br> 
-The research project aims to conduct an extensive and rigorous literature survey to find optimum material, design and to contruct a prototype of soft actuator used in robotic legged locomotion using a 3D printer. The project also aims to experimentally varify and confirm the results with the results of the optimum design obtained from literature survey.   
+Guide: Dr. Arati V Mulay, Associate Professor, Department of Manufacturing Engineering and Industrial Management, COEP.<br> 
+The research project aims to conduct an extensive and rigorous literature survey to find optimum material and design for a soft actuator used in robotic legged locomotion, and to construct a prototype using a 3D printer. The project also aims to experimentally verify and confirm the results with the results of the optimum design obtained from literature survey.   
 
 ### Past
 ### •	AERIAL VEHICLE 
